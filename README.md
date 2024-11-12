@@ -12,16 +12,11 @@ This project is a simulation of a roulette game where users can place various ty
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/todo
-   cd roulette-game-simulator
-
-2. **Install dependencies:**:
+1. **Install dependencies:**:
    ```bash
    npm install
 
-3. **Compile TypeScript files**:
+2. **Compile TypeScript files**:
    ```bash
    npm run build
 
