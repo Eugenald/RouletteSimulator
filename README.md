@@ -24,7 +24,7 @@ This project is a simulation of a roulette game where users can place various ty
 
 To run the program, use the following command:
    ```bash
-   npm run start -- -bet [amount] -betCondition [type/number]
+   npm run start -- -bet [amount] -betCondition [type/number] -seed [number(0-36)]
    ```
 ### Arguments
 
